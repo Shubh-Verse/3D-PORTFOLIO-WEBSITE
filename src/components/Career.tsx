@@ -34,7 +34,7 @@ const Career = () => {
               <h3>2025–26</h3>
             </div>
             <p>
-              Senior Lead Product & Software Developer @ Snoufai pvt. ltd. (Sept 2025 – April 2026):
+              Senior Lead Product & Software Developer @ Snoufai pvt. ltd. (Sep 2025 – April 2026):
               Leading product development and software engineering for Snoufai's AI-driven solutions, focusing on innovation and user-centric design.
               Finance Manager @ Shivamorphosis pvt. ltd. (Jan 2025 –
               Present): Managing financial operations, budgeting, and strategic planning to ensure the company's financial health and growth & Building AI Automations.
