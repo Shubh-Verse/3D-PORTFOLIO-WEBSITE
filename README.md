@@ -113,7 +113,7 @@ Live site: [https://akashrmalhotra.netlify.app/](https://akashrmalhotra.netlify.
 - `npm run dev`  
   Starts Vite dev server and exposes host for local network testing.
 
-- `npm run build`  
+- `q`  
   Type-checks and builds a production-ready bundle.
 
 - `npm run preview`  

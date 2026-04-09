@@ -97,8 +97,8 @@ const WhatIDo = () => {
               <div className="what-content-flex">
                 <div className="what-tags">LLMs &amp; agents</div>
                 <div className="what-tags">Workflow design</div>
-                <div className="what-tags">RAG &amp; retrieval</div>
-                <div className="what-tags">Evals &amp; guardrails</div>
+                <div className="what-tags">ML &amp; retrieval</div>
+                <div className="what-tags">Evals &amp; tests</div>
                 <div className="what-tags">Integrations</div>
                 <div className="what-tags">Product strategy</div>
               </div>
@@ -132,11 +132,11 @@ const WhatIDo = () => {
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
+                <div className="what-tags">Dart</div>
                 <div className="what-tags">Python</div>
-                <div className="what-tags">REST &amp; real-time APIs</div>
-                <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">MongoDB</div>
+                <div className="what-tags">Flutter &amp; real-time APIs</div>
+                <div className="what-tags">Firebase</div>
+                <div className="what-tags">Java</div>
                 <div className="what-tags">React</div>
                 <div className="what-tags">Cloud &amp; infra</div>
               </div>
